@@ -1,0 +1,12 @@
+Package: com.cydiacz.immortal_1.1-1
+Version: 1.1.1
+Architecture: iphoneos-arm
+Maintainer: cydiacz <email@gmail.com>
+Filename: /immortal_1.1-1.deb
+Size: 9304
+MD5sum: 7AC39852D2DAFC358F1AD3FAB9503677
+SHA256: 18C83DB92F3DD4D44D7BF0C6083D4FB5FD0F83879991DFE050F66BF62EB4CEF5
+Section: Tweaks
+Description: A test tweak for yalu 
+Author: cydiacz <email@gmail.com
+Name: immortal
