@@ -1,12 +1,13 @@
-Package: com.cydiacz.immortal_1.1-1
-Version: 1.1.1
+Package: com.cydiacz.icleaner_7.6.0
+Version: 7.6.0
 Architecture: iphoneos-arm
 Maintainer: cydiacz <email@gmail.com>
-Filename: /immortal_1.1-1.deb
+Filename: /icleaner_7.6.0.deb
 Size: 9304
-MD5sum: 7AC39852D2DAFC358F1AD3FAB9503677
-SHA256: 18C83DB92F3DD4D44D7BF0C6083D4FB5FD0F83879991DFE050F66BF62EB4CEF5
-Section: Tweaks
-Description: A test tweak for yalu 
+MD5sum: 1A884BD02211CA84572FC3740751554F
+SHA1: 10DCB21DAA78860FC12BD9AE3EF5D75706B80AE3
+SHA256: 4D3FD33C4B8E18D3BB5FF15204F894F4105FCA328B0DB59217F3BFA22843E60F
+Section: Utilities
+Description: A test Utilities for ios
 Author: cydiacz <email@gmail.com
-Name: immortal
+Name: icleaner
