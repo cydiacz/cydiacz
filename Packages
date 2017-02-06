@@ -1,13 +1,13 @@
-Package: com.cydiacz.ccrecorderios10_1.0.1
-Version: 1.0.1
+Package: com.cydiacz.cydiaCZ
+Version: 0.1
 Architecture: iphoneos-arm
 Maintainer: cydiacz <email@gmail.com>
-Filename: /ccrecorderios10_1.0.1.deb
-Size: 58404
-MD5sum: 05910A3FD77DB54397EDD3E34AEF4905
-SHA1: 00590242571504FE38A86638D16D7E3DF4262966
-SHA256: D7A513CB2A8FB110929A3E1A65A468C5F303AB57BD5A07EFB9AD979FE634CD6F
+Filename: /cydiaCZ.deb
+Size: 2236
+MD5sum: 59D7275230E93FD307A9CC76C6B8DB16
+SHA1: 2A7B5F82A010AC36E6F774187FDB42CADA371614
+SHA256: D18E8A9747B530EAF6E85578CCC113634C4048E3460CE46D5563ABF6C11C6F45
 Section: Tweak
-Description: A test Tweak for ios
+Description: A test Tweak for my repo
 Author: cydiacz <email@gmail.com
-Name: ccrecorderios10_1.0.1
+Name: cydiaCZ
