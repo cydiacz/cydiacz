@@ -1,0 +1,7 @@
+Package: com.cydiacz.cydiaicon
+Name: cydiaicon
+Version: 0.0.1
+Section: Packager Tweaks
+Architecture: iphoneos-arm 
+Maintainer: cydiacz@gmail.com
+Author: cydiacz@gmail.com

@@ -1,13 +1,13 @@
-Package: com.cydiacz.cydiaCZ
+Package: com.cydiacz.cydiaicon
 Version: 0.1
 Architecture: iphoneos-arm
 Maintainer: cydiacz <email@gmail.com>
-Filename: /cydiaCZ.deb
-Size: 2236
-MD5sum: 59D7275230E93FD307A9CC76C6B8DB16
-SHA1: 2A7B5F82A010AC36E6F774187FDB42CADA371614
-SHA256: D18E8A9747B530EAF6E85578CCC113634C4048E3460CE46D5563ABF6C11C6F45
-Section: Tweak
+Filename: /cydiaicon.deb
+Size: 4796 
+MD5sum: 9A5C674EED65CE856BC7B9F3F02AC995
+SHA1: 574E80DE4820C486DA54081DD044815F8E12A098
+SHA256: F0E6E0AE5ED60DDA83B8E7CF05B3A63D9AC90668574C337D937F2C23441227A0
+Section: Packager Tweaks
 Description: A test Tweak for my repo
 Author: cydiacz <email@gmail.com
 Name: cydiaCZ
